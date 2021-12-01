@@ -3,7 +3,7 @@
     "path": "~/R Projects/ANCOVA/packages.R",
     "project_path": "packages.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3583761884",
     "contents": "",
     "dirty": false,
     "created": 1638384325448.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,18",
+        "cursorPosition": "2,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1638384623,
+    "lastKnownWriteTime": 1638385115,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1638384623271,
+    "last_content_update": 1638385115387,
     "read_only": false,
     "read_only_alternatives": []
 }
